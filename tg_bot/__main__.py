@@ -143,8 +143,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="➕ Add Me To A Group ➕", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlineKeyboardButton(text="Updates Channel", url="https://t.me/KeralaBots"), InlineKeyboardButton(text="Support Group", url="https://t.me/KochuUpdates")],
-                     [InlineKeyboardButton(text="🧑‍💻 Developer", url="https://www.youtube.com/stealthtechnogaming?sub_confirmation=1"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                     [InlineKeyboardButton(text="Updates Channel", url="https://t.me/telebotinstitute"), InlineKeyboardButton(text="Support Group", url="https://t.me/pesexchnangesales")],
+                     [InlineKeyboardButton(text="🧑‍💻 Developer", url="https://t.me/tom_killadi"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ഹായ് മച്ചാൻ,  എന്താണ്??")
