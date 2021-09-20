@@ -26,7 +26,7 @@ PM_START_TEXT = """
 
 `For More Details Click` /help
 
-🔖 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [༒︎❦︎✯𝙲𝚁𝙸𝚂𝙷𝙴𝙼𝚂𝚆𝙾𝚁𝚃𝙷✯❦︎༒︎](tg://user?id={})
+🔖 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [𝙲𝚁𝙸𝚂𝙷𝙴𝙼𝚂𝚆𝙾𝚁𝚃𝙷](https://t.me/tom_killadi)
 """
 
 HELP_STRINGS = """
